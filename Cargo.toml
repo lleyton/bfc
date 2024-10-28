@@ -1,0 +1,7 @@
+[package]
+name = "bfc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+qbe = { git = "https://github.com/lleyton/qbe-rs.git", version = "2.1.0" }
