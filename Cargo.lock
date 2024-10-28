@@ -11,5 +11,6 @@ dependencies = [
 
 [[package]]
 name = "qbe"
-version = "2.1.0"
-source = "git+https://github.com/lleyton/qbe-rs.git#8ca4d648ab79437d835aa408eff7718b89861b84"
+version = "2.2.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "7f3dac1ea3aea4a125cacec9a02a6d7f3cfcff5a5691ef65cd79481b934b8607"
